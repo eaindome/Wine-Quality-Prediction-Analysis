@@ -7,3 +7,5 @@ They are:
 3. Wine Quality Analysis which contains all undertaking experiments to choose appropriate visualizations and models
 4. Wine Quality Prediction which is my first take on this challenge
 5. Wine Quality Prediction Analysis with unsupervised learning which contains additional unsupervised learning methods. The unsupervised learning methods are not yet explained though, will be handled in another dataset.
+
+### Kindly IGNORE the various Iris Flower analysis notebooks.
